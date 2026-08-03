@@ -3,6 +3,12 @@ rg_name = {
     name     = "rg-dev-01"
     location = "westus"
   }
+
+  rg2 = {
+    name     = "rg-prod-01"
+    location = "westus"
+  }
+  
 }
 
 vnets = {
