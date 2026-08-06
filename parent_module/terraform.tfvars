@@ -9,11 +9,7 @@ rg_name = {
     location = "westus"
   }
 
-   rg3 = {
-    name     = "rg-prod-02"
-    location = "westus"
-  }
-  
+
 }
 
 vnets = {
